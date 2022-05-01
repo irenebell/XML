@@ -1,1 +1,8 @@
-
+<xml>
+    <id>13579</</id>
+    <summary>The name input is not validated</summary>
+    <priority>High</priority>
+    <severity>Major</severity>
+    <description>Steps to reproduce. Expected result. Actual result</description>
+    <assignee>Dev</assignee>
+    <attachments>Image</attachments>
